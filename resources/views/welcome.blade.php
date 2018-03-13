@@ -79,7 +79,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
+<<<<<<< HEAD
                     Hello Zuma!
+=======
+                    Hello World!!!!
+>>>>>>> master
                 </div>
 
                 <div class="links">
