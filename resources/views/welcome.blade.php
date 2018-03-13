@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hello World!
+                    Hello Zuma!
                 </div>
 
                 <div class="links">
