@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hello World!
+                    Work Hard EPTA! 
                 </div>
 
                 <div class="links">
