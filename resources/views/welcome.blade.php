@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Work Hard EPTA! 
+                    Sam takoi! EPTA! 
                 </div>
 
                 <div class="links">
