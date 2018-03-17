@@ -12,3 +12,6 @@ Route::get('/posts/{post}', 'PostsController@show');
 
 
 
+
+
+Route::get('/landing/main', 'LandingsController@main');
