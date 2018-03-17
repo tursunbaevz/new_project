@@ -18,6 +18,13 @@
 
 		    <div class="form-group">
 
+			    <label for="title">Header</label>
+			    <input name="header" type="text" class="form-control" id="header" placeholder="header" style="width: 50%;">
+
+		 	</div>
+
+		    <div class="form-group">
+
 		    	<label for="body">Body</label>
 		    	<textarea name="body" id="body" placeholder="type..." class="form-control" rows="3" style="width: 50%;"></textarea>
 
